@@ -22,7 +22,7 @@ szamitGomb.addEventListener("click", ()=>{
     hossz.value = " ";
 });
 
-function szamolFelszin(sugar:number, hossz:number){
+function szamolFelszin(sugar:number, hossz:number):number{
     let felszin = 2*Math.PI*sugar*(sugar + hossz);
     return felszin;
 }
