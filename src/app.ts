@@ -1,3 +1,13 @@
+/*
+* File: app.ts
+* Author: Sánta Renáta Diána
+* Copyright: 2022, Sánta Renáta Diána
+* Group: Szoft II N
+* Date: 2022-10-28
+* Github: https://github.com/SantaRenata/
+* Licenc: GNU GPL
+*/
+
 const szamitGomb = document.querySelector("#szamitGomb");
 const eredmeny = document.querySelector("#eredmeny");
 const sugar = document.querySelector("#sugar") as HTMLInputElement;

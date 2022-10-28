@@ -1,0 +1,30 @@
+/*
+* File: style.css
+* Author: Sánta Renáta Diána
+* Copyright: 2022, Sánta Renáta Diána
+* Group: Szoft II N
+* Date: 2022-10-28
+* Github: https://github.com/SantaRenata/
+* Licenc: GNU GPL
+*/
+
+.container{
+    background-color: aquamarine;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: cadetblue;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+footer{
+    background-color: darkcyan;
+    padding: 4px;
+    margin: 1% 17%;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: darkslategrey;
+}
